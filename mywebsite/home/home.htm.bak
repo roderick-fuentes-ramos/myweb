@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+<TITLE>My Framz Page</TITLE>
+</HEAD>
+
+<BODY>
+<P ALIGN=center><FONT FACE="LUCIDA SANS" SIZE="20">HOME</FONT></P>
+<BR>
+<BR>
+
+<TABLE BORDER=0 WIDTH=100% CELLSPACING=0 CELLPADDING=0>
+
+<TR>
+    <TD WIDTH="12%" ROWSPAN=10 VALIGN="TOP" HEIGHT=100><img src="/myweb/mywebsite/home/myrealpic.gif" width=111 height=104 lowsrc="myrealpic.gif"></TD>
+    <TD WIDTH="18%">&nbsp;</TD>
+    <TD WIDTH="47%" ROWSPAN=23 ALIGN=left HEIGHT=300> 
+      <pre><FONT SIZE = 3 FACE="LUCIDA SANS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I am glad you visited my web page. 
+In the creation of this web page I really think of 
+something that will really benefit  myself and of 
+course you, the guests of this website. 
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please don't hesitate to give me your 
+ suggestion in the improvement of this 
+ website. 
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enjoy your Stay! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email me at <A HREF='mailto:roderick.f.ramos@onsemi.com'>roderick.f.ramos@onsemi.com</A> </font></pre>
+    </TD>
+    <TD WIDTH=23% ROWSPAN=20>&nbsp; </TD>
+</TR>
+
+</TABLE>
+
+
+</BODY>
+</HTML>

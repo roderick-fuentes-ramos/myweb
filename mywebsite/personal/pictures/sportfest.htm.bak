@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<title>On Semiconductor Basketball Game Opening</title>
+</head>
+
+<body>
+
+<table border="0" cellpadding="0">
+  <caption><strong>ON Sports Fest</strong></caption>
+  <tr>
+    <td width="100%" align="center"><img src="../personal/pictures/1.jpg" width="600" height="440"
+    name="photoslider"></td>
+  </tr>
+  <tr>
+    <td width="100%" align="center"><form method="POST" name="rotater">
+      <div align="center"><center><p>
+<script language="JavaScript1.1" src="sportfest.js">	
+
+</script>
+<input type="button" value="&lt;&lt;Back" name="B1" onClick="if (which==0) initialize('backward');backward()"> 
+<input type="button" value="Next&gt;&gt;" name="B2" onClick="if (which==0) initialize('forward');forward()"><br>
+      <a href="#" onClick="which=2;backward();return false"><small>Start Over</small></a></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE>My Framz Page</TITLE>
+</HEAD>
+
+  <FRAMESET COLS="150,*" >
+    
+  <FRAME SRC="/myweb/mywebsite/hobby/folderlist/mainfolderlist.htm" SCROLLING=NO FRAMEBORDER=NO name=treeFrame>
+    <FRAME SRC="/myweb/mywebsite/hobby/hobbywelcome.htm" name="personalbody" FRAMEBORDER=NO>
+  </FRAMESET><noframes></noframes>
+
+
+</HTML>

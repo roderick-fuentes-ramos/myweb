@@ -1,0 +1,37 @@
+<html>
+
+
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript1.1">
+    function square(username,password) {
+         /* document.write("The call passed as the username equal to ", username ," to the function.","<BR>") 
+          document.write("The call passed as the password equal to ", password ," to the function.","<BR>") */
+	 if ((username == "ERICK") && (password == "ERICK")) {
+		 document.location="../profession/programming/plsql_valid_user.html"
+	 }
+	 else
+		 document.location="../profession/programming/plsql_invalid_user.htm"
+	 }
+   }  
+</SCRIPT>
+</HEAD>
+
+
+<body>
+<form method="POST" name="login">
+<BR><BR><BR><BR><BR><BR>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 ALIGN="CENTER" VALIGN="CENTER">
+<TR><TD WIDTH=70 VALIGN="TOP">User Name:</TD>
+<TD><INPUT NAME="username"></TD>
+<TR><TD VALIGN="TOP">Password :</TD>
+<TD><INPUT NAME="password" type=password></TD>
+</TR>
+<TR>
+<TD><INPUT TYPE="button" value="Submit" name="Submit" onClick="square(login.username.value,login.password.value)">
+</TD></TR>
+
+</table>
+</form>
+</body>
+
+</html>

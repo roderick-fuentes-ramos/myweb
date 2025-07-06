@@ -1,0 +1,30 @@
+<html>
+
+<table border=0 cellspacing=0 cellpadding=0>
+
+<tr>
+<td><A href="../personal/resume.htm" target=personalbody onMouseOver='window.status="Open Document"; return true'>
+<img src="../../../doc.gif" width=24 height=22 border=noborder></a></td>
+<td valign=middle align=left nowrap><font size=-1 face='Arial, Helvetica'>Resume</font></td>
+</tr>
+
+<tr>
+<td><A href="../personal/folderlist/openfolderpicture.htm" onMouseOver='window.status="Open Folder"; return true'>
+<img src="../../../closedfolder.gif" width=24 height=22 border=noborder></a></td>
+<td valign=middle align=left nowrap><font size=-1 face='Arial, Helvetica'>Pictures</font></td>
+</tr>
+
+<tr>
+<td><A href="../personal/folderlist/openfolderfavoritesites.htm" onMouseOver='window.status="Open Folder"; return true'>
+<img src="../../../closedfolder.gif" width=24 height=22 border=noborder></a></td>
+<td valign=middle align=left nowrap><font size=-1 face='Arial, Helvetica'>Favorite Sites</font></td>
+</tr>
+
+</TABLE>
+
+
+</body>
+
+
+</html>
+
